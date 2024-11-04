@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Limonada</string>
+    <string name="lemon_select">Selecciona un limón</string>
+    <string name="lemon_squeeze">Exprime el limón</string>
+    <string name="lemon_drink">Bebe la limonada</string>
+    <string name="lemon_tree_content_description">Árbol de limones</string>
+    <string name="lemon_content_description">Limón exprimiéndose</string>
+    <string name="lemonade_content_description">Vaso de limonada</string>
+    <string name="empty_glass_content_description">Vaso vacío</string>
+</resources>
