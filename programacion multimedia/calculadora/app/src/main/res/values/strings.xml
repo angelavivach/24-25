@@ -1,0 +1,7 @@
+<resources>
+    <string name="calcular_propina">Calcular Propina</string>
+    <string name="cantidad_factura">Cantidad de la Factura</string>
+    <string name="como_fue_el_servicio">¿Cómo fue el servicio?</string>
+    <string name="monto_propina">Monto de la Propina: %1$s</string>
+    <string name="redondear_propina">Redondear la Propina</string>
+</resources>
